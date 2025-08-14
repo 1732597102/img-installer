@@ -1,4 +1,4 @@
-name: "Build Custom OpenWrt Installer ISO"
+name: "Build immortalwrt Installer ISO"
 
 on:
   workflow_dispatch:
